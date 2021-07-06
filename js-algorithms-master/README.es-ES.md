@@ -6,13 +6,9 @@
 Este repositorio contiene ejemplos basados en JavaScript de muchos
 algoritmos y estructuras de datos populares.
 
-Cada algoritmo y estructura de datos tiene su propio LÉAME con explicaciones relacionadas y
-enlaces para lecturas adicionales (incluyendo algunas a vídeos de YouTube).
-
 _Léelo en otros idiomas:_
 [_English_](https://github.com/trekhleb/javascript-algorithms/),
 [_简体中文_](README.zh-CN.md),
-[_繁體中文_](README.zh-TW.md),
 
 *☝ Nótese que este proyecto está pensado con fines de aprendizaje e investigación,
 y **no** para ser usado en producción.*
